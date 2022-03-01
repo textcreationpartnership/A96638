@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Mr. Walcot, concerning his making sea-water fresh, clear and wholesome</title>
+            <author>Walcot, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96638</idno>
+            <idno type="STC">Wing W285B</idno>
+            <idno type="STC">ESTC R231661</idno>
+            <idno type="EEBO-CITATION">99896861</idno>
+            <idno type="PROQUEST">99896861</idno>
+            <idno type="VID">137119</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137119)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2450:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Mr. Walcot, concerning his making sea-water fresh, clear and wholesome</title>
+                  <author>Walcot, William.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Lincoln's Inn Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seawater --  Distillation --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:137119:1" rendition="simple:additions"/>
+            <head>The CASE of Mr. WALCOT, Concerning his Making Sea-Water Freſh, Clear and Wholeſome.</head>
+            <p>
+               <hi>WILLIAM WALCOT</hi> of the Middle Temple <hi>
+                  <abbr>Eſq</abbr>
+               </hi> the <hi>Firſt</hi> and <hi>True Inventor</hi> of making Salt (and Putrefied) Water, Freſh, Clear, and Wholſome, did, in the Year 1675, make an Experiment of his ſaid <hi>Invention,</hi> in the preſence of His Sacred Majeſty, King <hi>CHARLES</hi> the Second, of Glorious Memory, who was pleaſed Highly to approve thereof, and to Grant him His Letters Patents for the Sole Benefit for 14 Years, according to the Statute, therein Declaring, That, <hi>Our Truſty and Well beloved</hi> William Walcot, <hi>
+                  <abbr>Eſq</abbr> hath with long Study, and very Great Expence, Invented and brought to Perfection, the Art of making Water Corrupted fit for uſe, and Sea-Water Freſh, Clear, and Wholſome, in very Large Quantities, by ſuch Ways and Means as are very Cheap and Eaſy, and which may be done and Practiſed with great Speed and Expedition, Some Evident Demonſtrations whereof we have ſeen to Our Great Satisfaction, and do believe the ſame may prove very uſeful as well to Our Royal Navy, as alſo to all other Ships and Veſſels belonging to Our Subjects, and likewiſe highly Advantagious to the Trade of our Subjects, and may tend to the Advancement of our Cuſtoms; and being, as we are Informed, never before <g ref="char:V">Ʋ</g>ſed or Known in any of Our Dominions, may likewiſe bring ſeveral other Conſiderable Advantages to <g ref="char:V">Ʋ</g>s and Our Subjects: And the ſaid</hi> William Wilcot <hi>hath aſſured <g ref="char:V">Ʋ</g>s, that he will make very Conſiderable and <g ref="char:V">Ʋ</g>ſeful Im<g ref="char:EOLhyphen"/>provements for, and in order to the greater Eaſe and Conveniency in the Premiſes,</hi> &amp;c.</p>
+            <p>Afterwards, by His ſaid Majeſties Leave, a Bill was brought into the Right Honourable the Houſe of PEERS, for Enlargement of the ſaid Term; which Bill being once Read, is yet remaining there, till the Water might be Experimented at Sea.</p>
+            <p>Much Time was neceſſarily ſpent in procuring Inſtruments and Materials (by reaſon that no Artiſts had been accuſtomed to form ſuch) fit to put in Practice (eſpecially at Sea) ſo great an Invention.</p>
+            <p>Likewiſe, Many, Great and Unavoidable Obſtructions (by reaſon of the newneſs of the Invention) he met with, as to the Practiſing thereof at Sea, of which he is ready to give a particular Account.</p>
+            <p>However, He Practiſed his ſaid Invention ſeveral years on Land, and diſpoſed of the Water to very many for their Uſe, and alſo ſent ſome to Forreign Parts, which continued Sweet and Good.</p>
+            <p>
+               <hi>Since</hi> which time <hi>Robert Fitz-gerald</hi> 
+               <abbr>Eſq</abbr> and Others, his Partners, have pretended to the ſaid Invention (and Gained other Letters Patents, not<g ref="char:EOLhyphen"/>withſtanding <hi>W. Walcot</hi> his Letters Patents were in Being) thereby Obſtructing the ſaid <hi>W. Walcot.</hi> This, at length, occaſioned <hi>W. Walcot</hi>'s repairing to <hi>Holland,</hi> in the Year 1684. where his Oppoſers were endeavouring to Obtain Letters Patents from the States of the United Provinces; and there, by a Petition delivered, on his behalf, to their Lordſhips, he Requeſted, that their Lordſhips would order both Parties to Appear before them to make publick Demonſtrations of their ſaid <hi>Arts;</hi> And, <hi>that upon the Judgments of their Lordſhips which of them both made the beſt Tryal with the leaſt Charge, might full<g ref="char:punc">▪</g> Enjoy their Lordſhips Free Patent;</hi> which Requeſt being Granted, the ſaid <hi>W. Walcot,</hi> and Mr. <hi>William Fitz-gerald,</hi> deputed by the ſaid <hi>R. Fitz-gerald</hi> and his Partners, did appear; and each made three ſeveral Experiments, One in preſence of the Lords of the States General, and Two before the Members of the States of <hi>Holland,</hi> and of the ſeveral Provinces; at All which, the ſaid <hi>W. Walcot</hi> gained ſuch a Reputation, that he hath Obtained Letters Patents from the States General, <hi>To Him alone, with Excluſion of all Others.</hi> And in like manner, Other Letters Patents from each of the ſeveral Provinces of <hi>Holland, Zeeland, Vrieſland,</hi> &amp;c.</p>
+            <p>Theſe Tranſactions in <hi>Holland</hi> were not unknown ſo Their Majeſties.</p>
+            <p>By All which it Manifeſtly Appears, That the ſaid <hi>W. Walcot</hi> was the <hi>Firſt Inventor</hi> (which hath been alſo Acknowledged by the ſaid R. <hi>Fitz<g ref="char:EOLhyphen"/>gerald</hi> and his Partners) and is the only Perſon that ever truly attained to the <hi>Art</hi> of Making Sea-Water Freſh, Clear and Wholeſome, in full per<g ref="char:EOLhyphen"/>fection, which would have been in danger to be loſt, if the ſaid <hi>R. Fitz-gerald</hi> and his Partners, ſhould have gained an Act of <hi>Parliament,</hi> accord<g ref="char:EOLhyphen"/>ing as they were endeavouring in the Year, 1685. and ſo to have Excluded the ſaid <hi>W. Walcot,</hi> both from the Reputation and Advantage of the ſaid Art, who had the Sole Right therein. To defend which he was forced to Return abruptly out of <hi>Holland,</hi> and to give his Attendance here ſince.</p>
+            <p>This likewiſe manifeſtly Appears, both to Seamen and others, by what the ſaid <hi>R. Fitz-gerald</hi> and his Partners have done ſince, both at Sea and Land, throughout His Majeſties Dominions, in their making many Tryals of their Skill, both in Ships and at Land, and in their ſeveral years At<g ref="char:EOLhyphen"/>tempts of bringing their Work into a Conſtant and publick Practice, where none did Obſtruct them.</p>
+            <p>SO that (as it is well known) the ſaid <hi>W. Walcot</hi> hath employed a great part of his Life in the <hi>Inventing</hi> of this Art, and bringing it to ſo high a perfection, as to a practical uſe, and gaining it ſo publick a Reputation; All by his own Conſtant and Exceſſive Charges; much ſuffering alſo under the Interruption of ſuch powerful Intereſts and Adverſaries (whoſe chief Deſign was to force the ſaid <hi>W. Walcot</hi> himſelf to make a Diſcovery to them of the Secrets of his Art; and ſailing thereof, to Entice his Workmen or Servants from his, to their Service; In vain endeavouring thereby to take the whole Advantages of his Charges and Labours to Themſelves) whoſe Obſtruction (they urging withall to have his Patent made void, that theirs might take place) hath and doth occaſion this moſt grievous loſs of time, in ſo Important an Undertaking. And makes him ſuffer likewiſe under the Cenſure of their Errors, and Miſcarriages, through their want of Skill; Who thereby have, perhaps, brought a ſhrewd Undervaluing, and unjuſt Diſparagement on the <hi>True ART;</hi> which, by reaſon of that Invincible <hi>Evidence,</hi> and ſo many publick <hi>Demonſtrations</hi> that have been ſhewn, and ſuch <hi>Teſtimonies</hi> and <hi>Atteſtations</hi> thereof, both at home and abroad, hath given ſuch ſufficient Aſſurance of its Reality and Worth, that it is hoped now it cannot reaſonably be Queſtioned.</p>
+            <p>Therefore the ſaid <hi>W. Walcot</hi> doth moſt humbly Deſire there may be Proviſion made by an Act in Parliament, that he may be Reſtored to his Anti<g ref="char:EOLhyphen"/>ent Right, and have his Term (which hath been thus unhappily interrrupted) Renewed and Enlarged in ſuch manner, That he may be encouraged and enabled to proceed to Exerciſe and Advance ſo <hi>Tranſcendent</hi> an <hi>ART</hi> at Sea as well as at Land, for the <g ref="char:V">Ʋ</g>niverſal Benefit.</p>
+            <div type="testimony">
+               <head>The Lord <hi>Chandos</hi> his Teſtimonial concerning his long Experience of <hi>W. W.</hi> his Sea-Water.</head>
+               <p>
+                  <hi>THeſe are to certifie All whom it doth or may Concern, That before I was Honour<g ref="char:EOLhyphen"/>ed with the Character of Ambaſſador from His Late Majeſty of Bleſſed Memory to the Grand Seignior of the</hi> Turks, <hi>I had the Satisfaction of ſeveral Taſts of my Worthy Friend</hi> William Walcot <hi>
+                     <abbr>Eſq</abbr> his Sea-water made Freſh, and Sweet, and to all Intents and Purpoſes equally made uſeful with the beſt Spring-water that e're I drank of in</hi> England <hi>for Land or Sea Service, as, upon above ſeven years Experience thereof at home and in foreign Parts, I am verily perſwaded. For of the ſaid Water I took with me ſome Quantity to</hi> Conſtantinople, <hi>and there upon Tryal thereof in the Pre<g ref="char:EOLhyphen"/>ſence of ſeveral Perſons of Credit found it exceeding Sweet and Good, Inſomuch that I had the Curioſity to try how long it would ſo preſerve it ſelf in that hot Climate: And in that Experiment alſo It ſo well anſwered my Expectation, that after near ſeven years keeping of it abroad, I brought of it home again with me: And now at this very Time have of it</hi> (viz. <hi>The Water I took out with me from the ſaid Mr.</hi> Walcot) <hi>Right, Sweet and Good. In Witneſs whereof I here Subſcribe my Name this 25th. of</hi> May 1688.</p>
+               <closer>
+                  <signed>Chandos.</signed>
+This agreeth with the original of his Lordſhips own Hand-writing.</closer>
+            </div>
+            <div type="testimony">
+               <head>The Teſtimonial of Mr. <hi>John Shiſh,</hi> Chief Maſter Builder of His Majeſties Yard at <hi>Deptford,</hi> concerning the working of <hi>W. W.</hi> his Inſtruments in Ships.</head>
+               <p>
+                  <hi>WHereas</hi> William Walcot <hi>
+                     <abbr>Eſq</abbr> hath often diſcourſed with me about his ſetting up of his Furnaces and Inſtruments in Ships for his Invention of making Good Freſh Water, and hath let me ſee his Furnaces, Inſtruments and Materials, and one Furnace in particular built upon Boards in a Room, which I ſee hath been much uſed with ſecurity from Danger of Fire: I do Certifie, that it doth appear to me, That he hath taken great Care, made many Induſtrious Contrivances, and Good Proviſion, for Safety and Conveniency of Working in Ships, and that he hath brought his Furnaces, Inſtruments, and other Materials (accom<g ref="char:EOLhyphen"/>modating them to Ship-Service) and Manner of Placing them to a great Perfection. I do Certifie likewiſe that they may be ſet up in a Ship, without Damage or Injury to the Ship, with Security from danger of Fire, and able to endure the Motion and Toſſing of a Ship at Sea. And that, in my Opinion, it will be of great <g ref="char:V">Ʋ</g>ſe to Navigation, as well to His Majeſties Ships, as to others.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <date>May the 13th. 1681.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>This agreeth with the Original.</p>
+                  <closer>
+                     <signed>John Shiſh.</signed>
+                  </closer>
+               </postscript>
+               <argument>
+                  <p>He being ſent for to give his Perſonal Attendance, Declared before the Commiſſioners of the Admiralty, That he would undertake to ſet them up in this manner in any of His Majeſties Ships, if they pleaſed to aſſign him a Ship for that Purpoſe.</p>
+               </argument>
+            </div>
+            <div type="conclusion">
+               <head>The Exerciſe of this ART may be Beneficial to All, and will be Injurious to None.</head>
+               <p>THE Purity of the Water is Such, that the Spirit is preſerved; In more than twice Seven years It hath not Putrefied, nor ſhewn any ſign of Decay ſince. It neither doth Taſte New or Harſh when firſt Compleated, nor Stale or Flat when long kept; but Smooth, and at all times alike.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
